@@ -1,6 +1,7 @@
 @font-face {
   font-family: "League_Gothic-webfont";
-  src: url("fonts/League_Gothic-webfont.eot"), url("fonts/League_Gothic-webfont.svg"), url("fonts/League_Gothic-webfont.ttf"), url("fonts/League_Gothic-webfont.woff");
+  src: url("fonts/League_Gothic-webfont.woff");
+  font-weight: bold;
 }
 
 html{
